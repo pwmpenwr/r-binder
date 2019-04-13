@@ -1,4 +1,5 @@
 ## Fit neural network 
+## https://www.analyticsvidhya.com/blog/2017/09/creating-visualizing-neural-network-in-r/
 
 # install library
 # install.packages("neuralnet")
